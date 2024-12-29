@@ -18,4 +18,4 @@ Computer Science + Math @ University of Toronto
 
 <h3>Connect with me!</h3>
 <a href="https://www.linkedin.com/in/fauzan-khan-5b4010217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@fauzannkhan-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:fauzankhan@mail.utoronto.ca"><img alt="Email" src="https://img.shields.io/badge/Email-fauzankhan@mail.utoronto.ca-blue?style=flat&logo=outlook"></a>
+<a href="mailto:fauzankhan@mail.utoronto.ca"><img alt="Email" src="https://img.shields.io/badge/Email-fauzankhan@mail.utoronto.ca-blue?style=flat&logo=gmail"></a>
