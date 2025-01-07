@@ -7,7 +7,7 @@ Computer Science + Math @ University of Toronto
 * ✉️  You can contact me at [fauzan.khan@mail.utoronto.ca](mailto:fauzan.khan@mail.utoronto.ca)
 * ⚡  Currently I'm seeking internships and working on a few personal projects to improve my skills
 * 💻   In the future, I hope to do software development for products that have an impact on real world users
-* ➡️   Prev. as a Software Engineer @ Akhny Solutions Inc., Mobile App Developer @ GoKaddal Tech, IT Deployment Specialist @ BMO
+* ➡️   Prev. as a Software Engineer @ Akhny Solutions Inc., App Developer @ GoKaddal Tech, IT Deployment Specialist @ BMO
 
 ### Skills
 
